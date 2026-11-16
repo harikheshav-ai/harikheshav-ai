@@ -7,6 +7,8 @@ things up on real hardware.
 
 My own work lives on my main account: **[@Harikheshav](https://github.com/Harikheshav)**.
 
+📝 Blog: **[My experiments with AI](https://harikheshav-ai.github.io/blog/)**, on how these projects were built and what went wrong.
+
 #### Projects
 
 | Project | What it is | Website |
